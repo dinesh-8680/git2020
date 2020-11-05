@@ -1,0 +1,43 @@
+.navigation{
+	background-color:darkgrey;
+	width: 100%;
+	display: block;
+}
+.container{
+	width: 80%;
+	height: 100px;
+	margin: 20px auto;
+}
+.container nav{
+	width: 50%;
+	float:right;
+	text-align: right;
+}
+h2{
+	display: inline;
+	float: left;
+}
+ul{
+	display: inline;
+	text-align: right;
+	margin: auto 10px;
+}
+li{
+	display: inline;
+	margin: 10px;
+	/* float:right; */
+	color: #fff;
+}
+button{
+		color:#fff;
+		background-color:#e74c3c;
+		outline: none;
+		border: 0;
+		color: #fff;
+		padding:10px 20px;
+		margin: 10px;
+		text-transform:uppercase;
+		margin-top:50px;
+		border-radius:2px;
+		cursor:pointer;		
+}
